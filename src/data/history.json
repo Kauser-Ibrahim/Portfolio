@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Data Science Intern",
+    "organisation": "IBM",
+    "startDate": "June, 2024",
+    "endDate": "July. 24",
+    "experiences": [
+      "Worked on different ML models",
+      "Learned about Data Science"
+    ],
+    "imageSrc": "history/ibm.png"
+  },
+  {
+    "role": "Lorem Ipsum Designer",
+    "organisation": "Mircosoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": [
+      "Lorem ipsum dolor sit amet",
+      "Sed do eiusmod tempor incididunt "
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Dolor Sit Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Ut enim ad minim veniam, quis nostrud",
+      "Duis aute irure dolor in reprehenderit in"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
